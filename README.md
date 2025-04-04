@@ -7,6 +7,5 @@ github.com/huntedsub
 dc   >  @huntedsub
 gn   >  guns.lol/huntedsub
 ```
-&zwnj; 
-&zwnj; 
+
 ![](https://komarev.com/ghpvc/?username=huntedsub)
