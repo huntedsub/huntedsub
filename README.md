@@ -5,7 +5,7 @@
 ```
 github.com/huntedsub
 dc   >  @huntedsub
-gn   >  guns.lol/huntedsub
+gn   >  guns.bio/huntedsub
 ```
 
 ![](https://komarev.com/ghpvc/?username=huntedsub)
