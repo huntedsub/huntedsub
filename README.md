@@ -3,7 +3,7 @@
 
 ```
 github.com/huntedsub
-dc   >  @huntedsub
+dc   >  @parodique
 gn   >  guns.bio/npa
 ```
 
