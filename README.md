@@ -4,7 +4,7 @@
 ```
 github.com/huntedsub
 dc   >  @parodique
-gn   >  guns.bio/npa
+gn   >  guns.lol/gods
 ```
 
 ![](https://komarev.com/ghpvc/?username=huntedsub)
