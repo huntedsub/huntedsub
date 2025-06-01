@@ -3,7 +3,7 @@
 
 ```
 github.com/huntedsub
-dc   >  @parodique
+dc   >  @tachanka.h
 gn   >  guns.lol/gods
 ```
 
